@@ -1,0 +1,76 @@
+@media screen and (max-width: 576px) {
+    .header {
+        width: 90%;
+    }
+
+    .banner {
+        top: 45%;
+    }
+
+    .banner_heading {
+        font-size: 30px;
+    }
+
+    .navbar {
+        margin: 0px;
+    }
+
+    .logo_heading {
+        font-size: 18px;
+    }
+
+    .banner_description {
+        margin: 0 10px;
+    }
+
+    .banner_types {
+        margin: 50px 50px;
+    }
+    .tours_section{
+        display: block;
+        margin: 30px 20px;
+    }
+    .tours_section_left_heading{
+        font-size: 20px;
+    }
+    .tours_section_right img{
+        width: 100%;
+    }
+    .first_section, .second_section, .third_section{
+        display: block;
+    }
+    .destination_img{
+        margin: 30px 20px;
+    }
+    .destination_heading{
+        font-size: 20px;
+    }
+    .destination_description{
+        font-size: 14px;
+    }
+    .destination_img_1 img{
+        width: 375px;
+        height: 200px;
+    }
+    .first_sec_choose, .second_sec_choose{
+        display: block;
+        margin: 50px 20px;
+    }
+    .choose_first{
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+    }
+    .choose_sec{
+        width: 100%;
+        height: 100%;
+        margin-bottom: -40px;
+    }
+    .choose_3{
+        width: 100%;
+        height: 100%;
+    }
+    .choose_con{
+        margin: 25px;
+    }
+}
