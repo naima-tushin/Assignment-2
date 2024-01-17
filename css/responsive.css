@@ -99,4 +99,33 @@
     .head_icon{
         margin: 0px 20px;
     }
+    .news_sec_left{
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    .news_sec_left_con{
+        margin: 20px 30px;
+    }
+    hr{
+        width: 100%;
+    }
+    .news_form input{
+        padding: 15px 135px 15px 15px;
+    }
+    .news_btn {
+        padding: 15px 110px;
+    }
+    .news_com {
+        left: 37%;
+        width: 235px;
+        height: 105px;
+        margin-top: -145px;
+    }
+    .foot{
+        margin: 5px 80px;
+        align-items: center;
+    }
+    .footer_description{
+        margin: 0px 15px;
+    }
 }
