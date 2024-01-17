@@ -73,4 +73,30 @@
     .choose_con{
         margin: 25px;
     }
+    .dd{
+        margin: 20px 20px;
+    }
+    .dd_bg, .dd_bg_3, .dd_bg_2{
+        width: 100%;
+    }
+    .dd_first, .dd_third, .dd_sec{
+        left: 5%;
+        width: 340px;
+        height: 360px;
+    }
+    .dd_heading{
+        font-size: 20px;
+    }
+    .dd_description{
+        font-size: 14px;
+    }
+    .dd_price{
+        font-size: 16px;
+    }
+    .btn_primary{
+        margin: 10px 0px;
+    }
+    .head_icon{
+        margin: 0px 20px;
+    }
 }

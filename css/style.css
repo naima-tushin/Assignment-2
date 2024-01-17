@@ -248,31 +248,89 @@ font-weight: 400;
 background-image: url('../images/Group\ 39.png');
 width: 1170px;
 height: 500px;
+margin-bottom: 20px;
 }
 .dd_bg_2{
     background-image: url('../images/Group\ 40.png');
 width: 1170px;
 height: 500px;
+margin-bottom: 20px;
 }
 .dd_first, .dd_third{
     border-radius: 16px;
-    height: 285px;
     width: 575px;
 border: 2px solid #FFF;
 background: rgba(255, 255, 255, 0.80);
-backdrop-filter: blur(2.5px);
+backdrop-filter: blur(1px);
 position: relative;
 left: 46%;
 top: 25%;
 }
 .dd_sec{
     border-radius: 16px;
-    height: 285px;
     width: 575px;
 border: 2px solid #FFF;
 background: rgba(255, 255, 255, 0.80);
-backdrop-filter: blur(2.5px);
+backdrop-filter: blur(1px);
 position: relative;
 top: 25%;
 left: 8%;
 }
+.icon{
+    color: orange;
+font-size: 16px;
+font-weight: 400;
+}
+.icon_details{
+    color: #5A5A5D;
+    font-size: 16px;
+font-weight: 400;
+}
+.dd_con{
+    display: flex;
+    align-items: center;
+    margin-bottom: -40px;
+}
+.dd_con_1{
+    margin: 0px 30px;
+}
+.head_icon{
+margin: 0px 30px;
+display: flex;
+align-items: center;
+}
+.dd_heading{
+    color: #131318;
+font-size: 24px;
+font-weight: 700;
+margin-bottom: 15px;
+}
+.dd_description{
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+margin-top: 0px;
+margin-bottom: 15px;
+}
+.dd_price{
+    color: orange;
+font-size: 20px;
+font-weight: 700;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+.btn_secondary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn_secondary button{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 8px;
+    background: orange;
+    margin: 10px 0px;
+  }
